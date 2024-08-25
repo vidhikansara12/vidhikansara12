@@ -6,6 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vidhikansara12" alt="vidhikansara12" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/vidhikansara12" target="blank"><img src="https://img.shields.io/twitter/follow/vidhikansara12?logo=twitter&style=for-the-badge" alt="vidhikansara12" /></a> </p>
+<p align="left"> <a href="www.linkedin.com/in/vidhikansara12" target="blank"><img src="https://img.shields.io/twitter/follow/vidhikansara12?logo=linkedIn&style=for-the-badge" alt="vidhikansara12" /></a> </p>
 
 - 🔭 I’m currently working on **Machine Learning and Artificial Intelligence**
 
