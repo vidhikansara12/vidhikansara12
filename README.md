@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vidhi Kansara</h1>
-<h3 align="center">A passionate CSE from DJSCE, Mumbai, Maharashtra India</h3>
+<h3 align="center">A masters student in CS from Stevens Institute of Technology</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vidhikansara12&label=Profile%20views&color=0e75b6&style=flat" alt="vidhikansara12" /> </p>
 
