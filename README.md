@@ -10,8 +10,6 @@
 
 - 🔭 I’m currently working on **Machine Learning and Artificial Intelligence**
 
-- 🌱 I’m currently learning **Tensorflow, PyTorch**
-
 - 👯 I’m looking to collaborate on **Full Stack Web Development and Machine Learning**
 
 - 💬 Ask me about **Full stack web development**
