@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **ML pipelines, feature engineering, backend/API design, and building AI features into apps.**
 
-- 📫 How to reach me **vidhikkansara@gmail.com**
+- 📫 How to reach me **vidhi.kansara@outlook.com**
 
 - ⚡ Fun fact **I’m a trained Bharatanatyam performer😁**
 
